@@ -10,6 +10,7 @@ TrashTech is a website that aims is to help to remove trash from the environment
 - [Market Progress](#market-progress)
 - [Trace Our TrashBins](#trace-our-trashbins)
 - [Contact](#contact)
+- [Acknowledgments](#Acknowledgments)
 
 ## About
 
@@ -77,7 +78,7 @@ Email: mrkashi2020@gmail.com
 
 ## Used By
 
-*This project is used by University Of Swabi Deptt Of Computer Science*
+*This project is used by the University Of Swabi Deptt Of Computer Science*
 
 ## Credit
 *The whole credit of this project goes to __Dr. Nasir Iqbal (Financial Management  - Instructor)__  and our team Members*
